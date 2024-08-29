@@ -24,7 +24,7 @@ _Note: If you don't have `chnid` and `key`, please contact your Account Manager.
 Parameters | Description | Required
 -- | -- | --
 page | default value `1` | Yes
-pagesize | offers number per page,default value `100` | Optional
+pagesize | offers number per page,default value `1000` | Optional
 offer_id | offer id | Optional
 
 > Sample:
